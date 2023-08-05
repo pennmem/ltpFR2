@@ -1,0 +1,122 @@
+ltpFR Methods
+
+Long-Term-Participant Free Recall (ltpFR) is a twenty session long experiment. Each sessions is comprised of either 12 or 16 lists of 16 items, potentially followed by a final free recall period, and always ending with a recognition period.  The following is breakdown of the experimental methods and settings over the course of the twenty sessions.
+
+Behavioral Methods:
+
+Items may be presented with an accompanying encoding task.  There are two tasks: a living/non-living (animacy) judgement and a big/small (size) judgement.  If the current task is the animacy task, the participant must press one of two keys indicating whether they believe the current item to be living or non-living.  Similarly, if the current task is the size task, the participant must decide if the current item is large or small based on whether it could fit inside of shoebox.  The type of task is indicated by the color, case, and typeface of the item when it is presented to the screen.  If the participant does not respond within 3000 ms, a tone sounds and text appears telling the participant to respond quickly.  If a participant does not press one of the two designated keys, a tone sounds and text appears telling the participants to press the appropriate keys.  The message is on the screen for 1500 ms.
+
+Each item is drawn from a word pool of 1638 items.  Items do not repeat within a session, but may repeat across sessions.  The semantic relatedness of each word to every other word is determined using the University of South Florida Free Association Norms (Nelson et al., 1998), and we then classify each pair as either a high semantic pair, a mid-high semantic pair, a mid-low semantic pair, and a low semantic pair.  Each 16 item list is structured such that it contains two pairs of high pairs, two pairs of mid-high pairs, two pairs of mid-low pairs, and two pairs of low pairs. One pair of items from each semantic relatedness bin is placed consecutively in the list, and items from the other pair are placed grater than two serial positions apart.
+
+In every list, there is 1500 ms delay before the first word appears on the screen.  Each item is on the screen for 3000 ms, followed by an 800 - 1200 ms inter-stimulus interval.  After the last item in the list, there is a 1200 - 1400 ms delay, after which a tone sounds, a row of asterisks appears, and the participant is given 75 seconds to attempt to recall any of the just-presented items.  During the entire recall period, a plus sign appears at the center of the screen.
+
+## SESSION 1 #################################################################                                   
+# FFR: Yes                                                                                                
+# RECOG: Yes                                                                                              
+# Math: No                                                                                                
+# Externalized FR: No                                                                                     
+# Trials 1-4: No Task                                                                                     
+# Trials 5-8: Task A                                                                                      
+# Trials 9-12: Task B                                                                                     
+# Trials 13-16: Switch
+
+The first session is considered a practice session and has a specific structure.  There are 16 lists of 16 words each.  The first four lists are "no task" lists, meaning there is no encoding task associated with the word presentations.  Item presentations in lists five through eight have either all encoding task A or all encoding task B, randomly selected.  Item presentations in lists nine through twelve are accompanied by the encoding task not used for lists five through eight.  Lists thirteen through sixteen are called "switch lists", and items may be presented with either encoding task A or encoding task B.  The number of task A and task B item presentations are counterbalanced across lists.
+
+## SESSIONS 2 - 7 ############################################################                                    
+# FFR: 3 out of 6 sessions, randomly chosen                                                               
+# RECOG: Yes                                                                                              
+# Math: No                                                                                                
+# Externalized FR: No                                                                                     
+# Trials 1-2: switch lists, alternating which task starts the list                                        
+# Trials 3-16: 4 no task, 3 task A, 3 task B, 4 switch, random order
+
+Sessions 2 through 7 all follow the same structure.  There are 16 lists of 16 items each.  Three of the six sessions have contain a final free recall period between the 16th list and the recognition period, and three do not (randomly chosen).  The first two lists are switch lists, one of which starts with task A or B, and the other starts with the task that did not start the first list.  The next fourteen lists are made up of four no task lists, three task A lists, three task B lists, and four switch lists, with the order randomly determined.
+
+## SESSION 8 ################################################################                                    
+# FFR: Yes                                                                                                
+# RECOG: Yes                                                                                              
+# Math: Yes                                                                                               
+# Trials 1-4:                                                                                             
+# Externalized FR: No                                                                                     
+#            Math: 2 lists each of (8,8) and (0,8), random order                                          
+#            Task: 2 lists of each task, no switch, random order                                          
+# Trials 5-14:                                                                                            
+#            Math: 2 lists of each of the 5 types:
+#		           (0,0),(0,8),(0,16),(8,8),(16,16)                      
+#                  Randomized within each set of 5 distractor types                                      
+#            Task: 5 lists of each task, no switch, random order
+
+Session 8 introduces a math distractor task and is considered a practice session.  The distractor task may be between item presentations and/or after the last item presentation in a list and the recall period, or there may be no distractor for a given list.  For the distractor task, the participant must solve problem of the form A + B + C = ?, where A, B, and C are all integers less than 10 (IS THAT CORRECT?) for a certain amount of time.  The possible math distractor conditions are (0 s,0 s), (0 s,8 s), (0 s,16 s), (8 s, 8 s), (16 s, 16 s), where the first number in a set is the length of time of the distractor between item presentations, and the second number is length of the distractor after the last item presentation.  Zeros indicate no distractor. The first four lists of session 8 are two (8 s, 8 s) lists and two (0 s, 8 s) lists, with the order randomly chosen.  Two of the lists are task A and two are task B, in random order.  The next ten lists are comprised of a random order of five task A lists and five task B lists.  Each of the five distractor conditions is used twice.  There is a final free recall period and a recognition period.
+
+## SESSIONS 9 - 14 ###########################################################                                    
+# FFR: 3 out of 6 sessions, randomly chosen                                                               
+# RECOG: Yes                                                                                              
+# Math: Yes                                                                                               
+# Externalized FR: No                                                                                     
+# Trials 1-2:                                                                                             
+#            Math: 1 list each of (8,8) and (0,8), random order                                           
+# Trials 3-12:                                                                                            
+#            Math: 2 lists of each of the 5 types
+#                  (0,0),(0,8),(0,16),(8,8),(16,16)                      
+#                  Randomized within each set of 5 distractor types                                       
+# Tasks: All 12 trials are randomized order of 6 switch and 6 control
+
+Sessions 9 though 14 all follow the same structure.  There are 12 lists of 16 items each.  Three of the six sessions have contain a final free recall period between three do not (randomly chosen).  The twelve lists are a random order of six no task lists and six switch lists.  The first two lists are an (8 s, 8 s) list and a (0 s, 8 s) list, in a random order.  The next ten lists are comprised of two of each of the five conditions, with the order randomized within each set of five.  The 12 trials are a randomized order of six switch lists and six no task lists.
+
+## SESSIONS 15 - 20 ##########################################################                                  
+# FFR: 3 out of 6 sessions, randomly chosen                                                               
+# RECOG: Yes                                                                                              
+# Math: No                                                                                                
+# Externalized FR: Yes                                                                                    
+# Trials 1-2: switch lists, alternating which task starts the list                                        
+# Trials 3-16: 4 no task, 3 task A, 3 task B, 4 switch, random order
+
+Sessions 15 through 20 follow essentially the same structure as sessions 2 through 7.  After the third trial in session 15, participants are instructed to begin recalling using the "externalized free recall" procedure.  Participants are perform externalized free recall for every list in the remainder of the experiment.
+
+Recognition Methods:
+
+Everyone session contains a recognition period.  ADD MORE HERE.
+
+EEG Recording Methods:
+
+EEG measurements are recording using Electrical Geodesics Net Amps 200 and 300 amplifier and NetStation software and 129 channel geodesic sensor nets.  Channels were recorded at 500 Hz.  EEG recordings are referenced to an average reference before analyses are performed. ADD MORE HERE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+Your response time was less
+than %d milliseconds.
+
+Respond as fast as you can
+without sacrificing accuracy.

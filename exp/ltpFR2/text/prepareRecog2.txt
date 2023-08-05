@@ -1,0 +1,7 @@
+Respond as quickly as you can without sacrificing accuracy.  Research has shown that it takes people about %d milliseconds to process a visual stimulus.  In other words, it is not possible to consider the stimulus and give an accurate response in less time than this.
+
+If you respond during the first %d milliseconds, a message will be displayed letting you know that you went too fast.
+
+Don't worry about trying to keep track of this time.  If you take the time to consider whether the word was presented during today's session or not, your response time will not be an issue.
+
+* Please press ENTER to begin the recognition period *

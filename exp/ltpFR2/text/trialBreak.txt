@@ -1,0 +1,5 @@
+Blink Now, and prepare
+to start the next trial
+in %d
+
+Press space to pause

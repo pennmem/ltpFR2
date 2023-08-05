@@ -1,0 +1,14 @@
+The size judgment
+
+The size judgment involves deciding whether or not the word refers to
+an object that could fit into a regular shoebox.
+
+There are two possible choices for each word: "big" and "small".  
+
+For example, if we asked you to judge the word "baseball", you would
+press "small" because a baseball can certainly fit into a shoebox.
+
+For some words, it won't be clear what the right answer is; just
+answer according to your first reaction to the word.
+
+* Please press ENTER to continue *

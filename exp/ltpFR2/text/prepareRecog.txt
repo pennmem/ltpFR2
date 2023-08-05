@@ -1,0 +1,25 @@
+In this next period, words will be shown one at a time.  For each word, you will be asked to decide whether that word was
+presented in any of the lists during this session, and respond by speaking aloud.
+
+It is easier to analyze vocal responses when they start with the same sound.  So, instead of "yes" or "no," you will be asked to respond
+either "pess" or "po."
+
+Say "pess" if you think the word was presented during the session.
+
+Say "po" if you think the word was not presented during the session.
+
+Press the space bar to indicate you have made your response.
+
+After saying "pess" or "po," rate how confident you are about your response by saying aloud a number from 1 to 5.  
+
+Say "one" if you are completely unsure about your response.
+
+Say "five" if you are extremely confident that your response was correct.
+
+Throughout the session, please try to calibrate your confidence ratings so that you use all five numbers.
+
+Once you have indicated your confidence, press the space bar to go on to the next word.  The experiment will tell you whether your response was correct, along with your reaction time, before it displays the next word.
+
+You will periodically be given a chance to rest and blink.
+
+* Please press ENTER to continue *
